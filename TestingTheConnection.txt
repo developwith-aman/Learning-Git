@@ -9,6 +9,8 @@ Checking for the default code editor
 
 Performing some merge conflicts (on Main)
 
+Make changes to see the diff
+
 # This is to store the content of TestingTheConnection.txt as a blob ↓
 #$sha1 = git hash-object -w TestingTheConnection.txt
 
