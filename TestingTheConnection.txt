@@ -11,6 +11,13 @@ Performing some merge conflicts (on Main)
 
 Make changes to see the diff
 
+#Git Stash ↓
+#If we make changes in a branch and then try switching to another branch without committing the changes,
+#then in this case we will not be allowed to do so. But what if we don't want to commit the changes and
+#just switching the branch for any reason, then in this case we can use "Stash" (git stash).
+#For regaining the content written before doing stash, we use "git stash apply".
+#For Applying and Dropping the stash at the same time, we use "git stash pop".
+
 # This is to store the content of TestingTheConnection.txt as a blob ↓
 #$sha1 = git hash-object -w TestingTheConnection.txt
 
