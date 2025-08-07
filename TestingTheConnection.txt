@@ -13,3 +13,14 @@ Checking for the default code editor
 
 # This is to Stage the file
 #git update-index --add --cacheinfo 100644 $sha1 TestingTheConnection.txt
+
+# This is for the tree
+# $tree= git write-tree
+
+# This is committing the tree
+#git commit-tree 73d201d2978c3f3647bee19e9d2b3c331613bbc3 -p HEAD -m "Manual adding and committing file"
+#git update-ref refs/heads/main da764f444fd0e3a8b6d44412ee7810b860161790
+
+
+
+
