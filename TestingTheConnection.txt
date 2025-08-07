@@ -18,6 +18,8 @@ Make changes to see the diff
 #For regaining the content written before doing stash, we use "git stash apply".
 #For Applying and Dropping the stash at the same time, we use "git stash pop".
 
+#Learning Git Rebase (thirdBranch)
+
 # This is to store the content of TestingTheConnection.txt as a blob ↓
 #$sha1 = git hash-object -w TestingTheConnection.txt
 
