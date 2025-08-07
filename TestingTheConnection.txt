@@ -6,3 +6,10 @@ Created a new branch named : newBranch
 Merged this new Branch into the Main branch
 Back on 6th of August 2025
 Checking for the default code editor
+
+
+# This is to store the content of TestingTheConnection.txt as a blob ↓
+#$sha1 = git hash-object -w TestingTheConnection.txt
+
+# This is to Stage the file
+#git update-index --add --cacheinfo 100644 $sha1 TestingTheConnection.txt
