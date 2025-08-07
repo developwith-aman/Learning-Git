@@ -20,7 +20,3 @@ Checking for the default code editor
 # This is committing the tree
 #git commit-tree 73d201d2978c3f3647bee19e9d2b3c331613bbc3 -p HEAD -m "Manual adding and committing file"
 #git update-ref refs/heads/main da764f444fd0e3a8b6d44412ee7810b860161790
-
-
-
-
