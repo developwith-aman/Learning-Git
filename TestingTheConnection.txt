@@ -7,6 +7,7 @@ Merged this new Branch into the Main branch
 Back on 6th of August 2025
 Checking for the default code editor
 
+Adding some content to the newBranch for the conflict (on newBranch)
 
 # This is to store the content of TestingTheConnection.txt as a blob ↓
 #$sha1 = git hash-object -w TestingTheConnection.txt
